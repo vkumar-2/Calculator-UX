@@ -10,7 +10,7 @@ git clone https://github.com/vkumar-2/Calculator-UX.git
 cd Calculator-UX
 ```
 
-#### 2. Open in VS Code:**
+#### 2. Open in VS Code:
 Navigate to `File > Open Folder` in **VS Code**, and select the folder **Calculator-UX**. Then open the file **index.html**.
 
 **3. Optional - Live Server / Node.js:**<br>

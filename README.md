@@ -5,7 +5,7 @@ A responsive, multi-page calculator web application (built with [Bootstrap](http
 #### 1. Clone the Repository:
 Enter the following in command line:
 
-```bash
+```
 git clone https://github.com/vkumar-2/Calculator-UX.git
 cd Calculator-UX
 ```

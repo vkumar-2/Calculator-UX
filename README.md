@@ -1,14 +1,30 @@
-Setup Instructions  
---------------------------------------------  
-**1.** Download this entire repository.  
-**2.** Extract (unzip) the zip file.  
-**3.** Open file, **index.html**.  
-**4.** Run the project through a local server if dark mode does not work. (see reference 3 below for more details)  
+# Calculator-UX
+A responsive, multi-page calculator web application (built with [Bootstrap](https://getbootstrap.com/ "Bootstrap")) focused on enhanced user experience, accessibility, and visual theming. **Calculator-UX** provides multiple calculation tools (arithmetic, BMI, and geometric shapes) wrapped in a consistent, accessible UI with light/dark modes, responsive navigation, and modular JavaScript architecture.
 
-References  
---------------------------------------------  
-**1.** Download Link: https://github.com/vkumar251/Calculator-UX/archive/refs/heads/main.zip  
-**2.** You may need to use an application like WinRAR or 7-zip to extract zip files:  
-&nbsp;&nbsp;&nbsp;&nbsp;**a.** WinRAR: https://www.win-rar.com  
-&nbsp;&nbsp;&nbsp;&nbsp;**b.** 7-zip: https://www.7-zip.org  
-**3.** Light Mode and Dark Mode uses modular JavaScript. For security reasons, many web browsers block module-type JS files from being executed. To fix, the project must be ran on a local server (e.g. VS Code Live Server or Node.js).  
+## Setup Instructions
+#### 1. Clone the Repository:
+Enter the following in command line:
+
+```
+git clone https://github.com/vkumar-2/Calculator-UX.git
+cd Calculator-UX
+```
+
+#### 2. Open in VS Code:
+Navigate to `File > Open Folder` in **VS Code**, and select the folder **Calculator-UX**. Then open the file **index.html**.
+
+#### 3. Optional - Live Server / Node.js:
+Light and dark mode use modular JavaScript (by default, web browsers will block modular JS running). Install the **VS Code Live Server** extension or **Node.js** to enable preview mode of the project, including light/dark mode.
+
+## Features
+### Tech Stack:
+- **Bootstrap** - main framework used for creating responsive layouts and consistent UI components.
+- **JavaScript** - handles logic, DOM manipulation, performing calculations and parsing data validations.
+- **ES6 modules** - use of `import` and `export` for accessibility and applying theme logic (light/dark mode).
+- **Font Awesome** - enhanced UI/UX of the application, aesthetics and improves accessibility cues, e.g. icons.
+
+### UI/UX Designs:
+- **Arithmetics** - performs basic mathematics - add, subtract, multiply, divide.
+- **Geometrics** - calculate the area/perimeter of 2D shapes and the volume of 3D shapes.
+- **BMI** - calculates and displays a chart of Body Mass Index.
+- **Accessibility** - high contrast themes (light/dark mode) and keyboard-friendly navigation.

@@ -28,3 +28,22 @@ Light and dark mode use modular JavaScript (by default, web browsers will block 
 - **Geometrics** - calculate the area/perimeter of 2D shapes and the volume of 3D shapes.
 - **BMI** - calculates and displays a chart of Body Mass Index.
 - **Accessibility** - high contrast themes (light/dark mode) and keyboard-friendly navigation.
+
+## Images
+### Home - Desktop View:
+
+| Light Mode | Dark Mode |
+| ------------ | ------------ |
+| ![](./images/home_light.png) | ![](./images/home_dark.png) |
+
+### 3D Shapes - Tablet View:
+
+| Light Mode | Dark Mode |
+| ------------ | ------------ |
+| ![](./images/3d_ipad_light.png) | ![](./images/3d_ipad_dark.png) |
+
+### BMI - Smartphone View:
+
+| Light Mode | Dark Mode |
+| ------------ | ------------ |
+| ![](./images/bmi_iphone_light.png) | ![](./images/bmi_iphone_dark.png) |

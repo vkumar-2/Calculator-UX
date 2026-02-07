@@ -1,5 +1,5 @@
 # Calculator-UX
-A responsive, multi-page calculator web application (built with [Bootstrap](https://getbootstrap.com/ "Bootstrap")) focused on UX, accessibility, and visual theming. **Calculator-UX** provides multiple calculation tools (arithmetic, BMI, and geometric shapes) wrapped in a consistent, accessible UI with light/dark modes, responsive navigation, and modular JavaScript architecture.
+A responsive, multi-page calculator web application (built with [Bootstrap](https://getbootstrap.com/ "Bootstrap")) focused on enhanced user experience, accessibility, and visual theming. **Calculator-UX** provides multiple calculation tools (arithmetic, BMI, and geometric shapes) wrapped in a consistent, accessible UI with light/dark modes, responsive navigation, and modular JavaScript architecture.
 
 ## Setup Instructions
 #### 1. Clone the Repository:

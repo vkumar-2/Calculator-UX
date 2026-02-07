@@ -13,7 +13,7 @@ cd Calculator-UX
 #### 2. Open in VS Code:
 Navigate to `File > Open Folder` in **VS Code**, and select the folder **Calculator-UX**. Then open the file **index.html**.
 
-**3. Optional - Live Server / Node.js:**<br>
+#### 3. Optional - Live Server / Node.js:
 Light and dark mode use modular JavaScript (by default, web browsers will block modular JS running). Install the **VS Code Live Server** extension or **Node.js** to enable preview mode of the project, including light/dark mode.
 
 ## Features
